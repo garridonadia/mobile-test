@@ -22,6 +22,6 @@
         <activity android:name="app.com.mobileassignment.views.MapActivity"></activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDMvbxA8d8bvNqmz-MV8-1rdvpqP9Ai9h0"/>
+            android:value="AIzaSyAsqC6Yj1zIN2hOSj9vHLJSsWzBS_6YrmI"/>
     </application>
 </manifest>
